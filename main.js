@@ -1,9 +1,9 @@
-const btnEl = document.querySelector(".btn");
+const btnComponent = document.querySelector(".btn");
 
-btnEl.addEventListener("mouseover", (event) => {
-  const x = event.pageX - btnEl.offsetLeft;
-  const y = event.pageY - btnEl.offsetTop;
+btnComponent.addEventListener("mouseover", (event) => {
+  const x = event.pageX - btnComponent.offsetLeft;
+  const y = event.pageY - btnComponent.offsetTop;
 
-  btnEl.style.setProperty("--xPos", x + "px");
-  btnEl.style.setProperty("--yPos", y + "px");
+  btnComponent.style.setProperty("--xPos", x + "px");
+  btnComponent.style.setProperty("--yPos", y + "px");
 });
