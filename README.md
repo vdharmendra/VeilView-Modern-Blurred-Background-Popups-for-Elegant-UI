@@ -30,5 +30,11 @@
 
 <span>👉 Desktop Design</span><br/>
 <a href="" target="_blank" >
-<img src="./" width="575px"/>
+<img src="./VeilView.gif" width="575px"/>
+</a>
+
+<span>👉 Desktop Design</span><br/>
+<a href="" target="_blank" >
+<img src="./FocusShade-lp1.png" width="275px"/>
+<img src="./FocusShade-lp2.png" width="275px"/>
 </a>
