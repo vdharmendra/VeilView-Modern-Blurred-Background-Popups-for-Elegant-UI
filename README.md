@@ -29,12 +29,12 @@
 
 
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/230749961/VeilView" target="_blank" >
 <img src="./VeilView.gif" width="575px"/>
 </a>
 
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/230749961/VeilView" target="_blank" >
 <img src="./FocusShade-lp1.png" width="275px"/>
 <img src="./FocusShade-lp2.png" width="275px"/>
 </a>
